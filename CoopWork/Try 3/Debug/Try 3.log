@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\Кирилл\Desktop\кг\Проект\Try 3\Source.cpp(78,12): warning C4805: ==: небезопасное смешение типа "float" и типа "bool" в операции
+C:\Users\Кирилл\Desktop\кг\Проект\Try 3\Source.cpp(87,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Кирилл\Desktop\кг\Проект\Try 3\Source.cpp(118,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Кирилл\Desktop\кг\Проект\Try 3\Source.cpp(194,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Кирилл\Desktop\кг\Проект\Try 3\Source.cpp(204,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Кирилл\Desktop\кг\Проект\Try 3\Source.cpp(211,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Кирилл\Desktop\кг\Проект\Try 3\Source.cpp(274,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Кирилл\Desktop\кг\Проект\Try 3\Source.cpp(282,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Кирилл\Desktop\кг\Проект\Try 3\Source.cpp(284,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Кирилл\Desktop\кг\Проект\Try 3\Source.cpp(298,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Кирилл\Desktop\кг\Проект\Try 3\Source.cpp(405,7): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+  Try 3.vcxproj -> C:\Users\Кирилл\Desktop\кг\Проект\Debug\Try 3.exe
